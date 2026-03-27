@@ -9,37 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+Work Experience
+======
+* 2024--now: Postdoc in the Clouds and Convection group, Meteorology, University of Hamburg
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2020--2024: PhD in Physics -- Des gouttelettes à la pluie : croissance et coalescence à travers les échelles dans les nuages, Laboratoire de Physique de l'\'Ecole Normale Supérieure, Paris (supervisor: Bruno Andreotti)
+* 2019--2020: M2 ICFP Soft Matter and Biological Physics, Ecole Normale Supérieure, Paris
+* 2018--2019: Agrégation of physics-chemistry, Centre interuniversitaire, Montrouge, (rank: 12th)
+* 2017--2018: M1 ICFP Physique Fondamentale, Ecole Normale Supérieure, Paris
+* 2016--2017: L3 Physique, Ecole Normale Supérieure, Paris
+* 2014--2016: Classe préparatoire aux Grandes Ecoles PCSI - PC*, Lycée Thiers, Marseille, (Physics and Chemistry undergraduate studies)
 
-Work experience
+Internships
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Feb. -- July 2018: Stress measurements near the ice/water interface, supervisors : Robert Style and Eric Dufresne, Soft and Living Materials, ETH, Zürich
+* July. 2017--Feb. 2018: Using extremely stretchable electrospun membranes as a substrate for electronics, supervisors: Arnaud Antkowiak and Sébastien Neukirch, Institut d'Alembert, Université Pierre et Marie Curie, Paris
 
 Publications
 ======
@@ -61,4 +47,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-supervising the PhD thesis of Nina Robbins-Blanch on "The role of rain evaporation for the energy and radiation budget of the trades" (supervisor: Raphaela Vogel)
+* Reviewer for the American Journal of Physics, Atmospheric Chemistry and Physics, Journal of Fluid Mechanics
